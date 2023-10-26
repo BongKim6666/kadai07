@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="wrapper">
       <div className="pic">
-        <img src="../src/img/sponge-bob.jpg" alt="sb" />
+        <img src="./src/img/sponge-bob.jpg" alt="sb" />
       </div>
       <div className="intro">
         <h2>スポンジ バカ</h2>
