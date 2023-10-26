@@ -24,8 +24,6 @@ import "./App.css";
 
 import axios from "axios";
 
-import { TextField } from "./components/TextField";
-
 function App() {
   // const [count, setCount] = useState(0)
   // const [list, setList] = useState([])
@@ -34,7 +32,7 @@ function App() {
   return (
     <div className="wrapper">
       <div className="pic">
-        <img src="./src/img/sponge-bob.jpg" alt="sb" />
+        <img src="./sponge-bob.jpg" alt="sb" />
       </div>
       <div className="intro">
         <h2>スポンジ バカ</h2>
